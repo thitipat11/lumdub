@@ -1,0 +1,39 @@
+4.0192 	INFO 	Loaded monitor calibration from ['2025_02_13 22:41']
+4.1557 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027C45B85820>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027C45B857C0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000027C45B05CA0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.1557 	EXP 	window1: backgroundImage = ''
+4.1557 	EXP 	window1: backgroundFit = 'none'
+4.2163 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.2164 	EXP 	window1: recordFrameIntervals = False
+4.4440 	EXP 	window1: recordFrameIntervals = True
+4.6277 	EXP 	Screen (0) actual frame rate measured at 59.93Hz
+4.6277 	EXP 	window1: recordFrameIntervals = False
+6.4471 	INFO 	keyboard.Keyboard is using iohub backend.
+6.4472 	INFO 	keyboard.Keyboard is using iohub backend.
+6.4472 	INFO 	keyboard.Keyboard is using iohub backend.
+6.4472 	EXP 	article: status = STARTED
+6.5459 	EXP 	Created imagefirst = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='image/kumnum.png', interpolate=True, mask=None, maskParams=None, name='imagefirst', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+6.5501 	EXP 	Created imagequestion = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='imagequestion', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+6.6345 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='image/Screenshot (172).png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0241 	INFO 	Keyboard events cleared
+0.0239 	EXP 	imagefirst: autoDraw = True
+1.3920 	EXP 	Imported question_stim.xlsx as conditions, 10 conditions, 2 params
+1.3922 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'article_image': 'image/number1.png', 'check_key': 1, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.4697 	DATA 	Keypress: space
+1.4768 	INFO 	Keyboard events cleared
+1.4765 	EXP 	imagefirst: autoDraw = False
+1.4765 	EXP 	imagequestion: image = 'image/number1.png'
+1.4765 	EXP 	imagequestion: autoDraw = True
+2.3459 	DATA 	Keypress: 1
+2.3616 	EXP 	imagequestion: autoDraw = False
+2.3616 	EXP 	image: autoDraw = True
+3.3455 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'article_image': 'image/number2.png', 'check_key': 2, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.3829 	INFO 	Keyboard events cleared
+3.3827 	EXP 	image: autoDraw = False
+3.3827 	EXP 	imagequestion: image = 'image/number2.png'
+3.3827 	EXP 	imagequestion: autoDraw = True
+3.6838 	DATA 	Keypress: escape
+3.7669 	EXP 	article: status = STOPPED
+3.7830 	EXP 	imagequestion: autoDraw = False
+3.7830 	EXP 	article: status = STOPPED
+3.7878 	INFO 	saved data to 'C:\\psychopywork\\lumdub\\data/153288_article_2025-05-06_23h00.52.124.csv'
+3.7883 	INFO 	saved data to C:\psychopywork\lumdub\data/153288_article_2025-05-06_23h00.52.124.psydat

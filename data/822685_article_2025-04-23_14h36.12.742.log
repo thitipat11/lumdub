@@ -1,0 +1,13 @@
+4.9038 	INFO 	Loaded monitor calibration from ['2025_02_13 22:41']
+5.0381 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000022802FF4700>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000022802FF46A0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000228031B4B80>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.0382 	EXP 	window1: backgroundImage = ''
+5.0382 	EXP 	window1: backgroundFit = 'none'
+5.1030 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.1030 	EXP 	window1: recordFrameIntervals = False
+5.3467 	EXP 	window1: recordFrameIntervals = True
+5.5303 	EXP 	Screen (0) actual frame rate measured at 59.93Hz
+5.5303 	EXP 	window1: recordFrameIntervals = False
+7.2355 	INFO 	keyboard.Keyboard is using iohub backend.
+7.2355 	EXP 	article: status = STARTED
+7.7647 	INFO 	saved data to C:\psychopywork\jubjaikwam\data/822685_article_2025-04-23_14h36.12.742.psydat
+7.7650 	INFO 	saved data to 'C:\\psychopywork\\jubjaikwam\\data/822685_article_2025-04-23_14h36.12.742.csv'

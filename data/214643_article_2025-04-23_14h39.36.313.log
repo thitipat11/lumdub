@@ -1,0 +1,35 @@
+3.9276 	INFO 	Loaded monitor calibration from ['2025_02_13 22:41']
+4.0640 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F28FB27760>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F28FB27700>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001F2907E4BE0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.0640 	EXP 	window1: backgroundImage = ''
+4.0640 	EXP 	window1: backgroundFit = 'none'
+4.1264 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.1264 	EXP 	window1: recordFrameIntervals = False
+4.3602 	EXP 	window1: recordFrameIntervals = True
+4.5433 	EXP 	Screen (0) actual frame rate measured at 59.93Hz
+4.5433 	EXP 	window1: recordFrameIntervals = False
+6.2498 	INFO 	keyboard.Keyboard is using iohub backend.
+6.2498 	EXP 	article: status = STARTED
+6.2555 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+6.2856 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0078 	EXP 	Imported question_stim.xlsx as conditions, 3 conditions, 1 params
+0.0080 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'article_image': 'image/number1.png', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.1034 	EXP 	image: image = 'image/number1.png'
+0.1034 	EXP 	image: autoDraw = True
+1.0207 	EXP 	image: autoDraw = False
+1.0207 	EXP 	text: autoDraw = True
+1.5044 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'article_image': 'image/number2.png', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+1.5416 	EXP 	text: autoDraw = False
+1.5416 	EXP 	image: image = 'image/number2.png'
+1.5416 	EXP 	image: autoDraw = True
+2.5259 	EXP 	image: autoDraw = False
+2.5259 	EXP 	text: autoDraw = True
+3.0097 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'article_image': 'image/number3.png', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+3.0469 	EXP 	text: autoDraw = False
+3.0469 	EXP 	image: image = 'image/number3.png'
+3.0469 	EXP 	image: autoDraw = True
+4.0311 	EXP 	image: autoDraw = False
+4.0311 	EXP 	text: autoDraw = True
+4.5315 	EXP 	text: autoDraw = False
+4.5315 	EXP 	article: status = STOPPED
+4.5358 	INFO 	saved data to 'C:\\psychopywork\\jubjaikwam\\data/214643_article_2025-04-23_14h39.36.313.csv'
+4.5362 	INFO 	saved data to C:\psychopywork\jubjaikwam\data/214643_article_2025-04-23_14h39.36.313.psydat

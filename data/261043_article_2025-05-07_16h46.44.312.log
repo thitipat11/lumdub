@@ -1,0 +1,71 @@
+5.4816 	INFO 	Loaded monitor calibration from ['2025_02_13 22:41']
+5.6205 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024B3BDF8940>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000024B3BDF88E0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000024B3BDB7D60>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.6205 	EXP 	window1: backgroundImage = ''
+5.6205 	EXP 	window1: backgroundFit = 'none'
+5.6797 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.6797 	EXP 	window1: recordFrameIntervals = False
+5.9361 	EXP 	window1: recordFrameIntervals = True
+6.1198 	EXP 	Screen (0) actual frame rate measured at 59.94Hz
+6.1198 	EXP 	window1: recordFrameIntervals = False
+7.8291 	INFO 	keyboard.Keyboard is using iohub backend.
+7.8291 	INFO 	keyboard.Keyboard is using iohub backend.
+7.8292 	INFO 	keyboard.Keyboard is using iohub backend.
+7.8292 	EXP 	article: status = STARTED
+7.9238 	EXP 	Created imagefirst = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='image/kumnum.png', interpolate=True, mask=None, maskParams=None, name='imagefirst', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+7.9280 	EXP 	Created imagequestion = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='imagequestion', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+8.0140 	EXP 	Created imageblank = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='image/Screenshot (172).png', interpolate=True, mask=None, maskParams=None, name='imageblank', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+0.0333 	INFO 	Keyboard events cleared
+0.0331 	EXP 	imagefirst: autoDraw = True
+0.5730 	EXP 	Imported question_stim.xlsx as conditions, 10 conditions, 2 params
+0.5732 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'article_image': 'image/number1.png', 'check_key': 1, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.6472 	DATA 	Keypress: space
+0.6663 	INFO 	Keyboard events cleared
+0.6661 	EXP 	imagefirst: autoDraw = False
+0.6661 	EXP 	imagequestion: image = 'image/number1.png'
+0.6661 	EXP 	imagequestion: autoDraw = True
+1.2505 	DATA 	Keypress: num_1
+2.0518 	DATA 	Keypress: 1
+2.0671 	EXP 	imagequestion: autoDraw = False
+2.0671 	EXP 	imageblank: autoDraw = True
+2.8850 	DATA 	Keypress: num_2
+3.0515 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'article_image': 'image/number2.png', 'check_key': 2, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.0887 	INFO 	Keyboard events cleared
+3.0886 	EXP 	imageblank: autoDraw = False
+3.0886 	EXP 	imagequestion: image = 'image/number2.png'
+3.0886 	EXP 	imagequestion: autoDraw = True
+3.4062 	DATA 	Keypress: num_2
+3.6063 	DATA 	Keypress: num_2
+3.7899 	DATA 	Keypress: num_3
+3.9734 	DATA 	Keypress: num_3
+4.4239 	DATA 	Keypress: num_2
+4.6073 	DATA 	Keypress: num_1
+5.0580 	DATA 	Keypress: 2
+5.0737 	EXP 	imagequestion: autoDraw = False
+5.0737 	EXP 	imageblank: autoDraw = True
+6.0580 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'article_image': 'image/number3.png', 'check_key': 3, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+6.0953 	INFO 	Keyboard events cleared
+6.0951 	EXP 	imageblank: autoDraw = False
+6.0951 	EXP 	imagequestion: image = 'image/number3.png'
+6.0951 	EXP 	imagequestion: autoDraw = True
+6.4631 	DATA 	Keypress: 3
+6.4788 	EXP 	imagequestion: autoDraw = False
+6.4788 	EXP 	imageblank: autoDraw = True
+7.4637 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'article_image': 'image/number4.png', 'check_key': 3, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+7.5004 	INFO 	Keyboard events cleared
+7.5002 	EXP 	imageblank: autoDraw = False
+7.5002 	EXP 	imagequestion: image = 'image/number4.png'
+7.5002 	EXP 	imagequestion: autoDraw = True
+7.7682 	DATA 	Keypress: 1
+7.7838 	EXP 	imagequestion: autoDraw = False
+7.7838 	EXP 	imageblank: autoDraw = True
+8.7681 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'article_image': 'image/number5.png', 'check_key': 1, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+8.8055 	INFO 	Keyboard events cleared
+8.8053 	EXP 	imageblank: autoDraw = False
+8.8053 	EXP 	imagequestion: image = 'image/number5.png'
+8.8053 	EXP 	imagequestion: autoDraw = True
+9.3068 	DATA 	Keypress: escape
+9.3895 	EXP 	article: status = STOPPED
+9.4058 	EXP 	imagequestion: autoDraw = False
+9.4058 	EXP 	article: status = STOPPED
+9.4105 	INFO 	saved data to 'C:\\psychopywork\\lumdub\\data/261043_article_2025-05-07_16h46.44.312.csv'
+9.4110 	INFO 	saved data to C:\psychopywork\lumdub\data/261043_article_2025-05-07_16h46.44.312.psydat

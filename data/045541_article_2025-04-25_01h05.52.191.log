@@ -1,0 +1,16 @@
+4.0787 	INFO 	Loaded monitor calibration from ['2025_02_13 22:41']
+4.2235 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000021C28B26760>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000021C28B26700>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000021C29865BE0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.2236 	EXP 	window1: backgroundImage = ''
+4.2236 	EXP 	window1: backgroundFit = 'none'
+4.2826 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.2827 	EXP 	window1: recordFrameIntervals = False
+4.4933 	EXP 	window1: recordFrameIntervals = True
+4.6769 	EXP 	Screen (0) actual frame rate measured at 59.94Hz
+4.6769 	EXP 	window1: recordFrameIntervals = False
+6.4998 	INFO 	keyboard.Keyboard is using iohub backend.
+6.4999 	INFO 	keyboard.Keyboard is using iohub backend.
+6.4999 	INFO 	keyboard.Keyboard is using iohub backend.
+6.4999 	EXP 	article: status = STARTED
+6.5942 	EXP 	Created imagefirst = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='image/kumnum.png', interpolate=True, mask=None, maskParams=None, name='imagefirst', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+7.0148 	INFO 	saved data to C:\psychopywork\jubjaikwam\data/045541_article_2025-04-25_01h05.52.191.psydat
+7.0151 	INFO 	saved data to 'C:\\psychopywork\\jubjaikwam\\data/045541_article_2025-04-25_01h05.52.191.csv'

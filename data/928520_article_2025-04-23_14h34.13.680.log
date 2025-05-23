@@ -1,0 +1,20 @@
+5.7909 	INFO 	Loaded monitor calibration from ['2025_02_13 22:41']
+5.9267 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC6D4E3670>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC6D4E36D0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001FC6D4A3B80>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.9268 	EXP 	window1: backgroundImage = ''
+5.9268 	EXP 	window1: backgroundFit = 'none'
+5.9886 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.9886 	EXP 	window1: recordFrameIntervals = False
+6.2513 	EXP 	window1: recordFrameIntervals = True
+6.4348 	EXP 	Screen (0) actual frame rate measured at 59.96Hz
+6.4348 	EXP 	window1: recordFrameIntervals = False
+8.3815 	INFO 	keyboard.Keyboard is using iohub backend.
+8.3815 	EXP 	article: status = STARTED
+8.4695 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='C:/psychopywork/jubjaikwam/image/number1.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+8.5000 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0273 	EXP 	image: autoDraw = True
+1.0282 	EXP 	image: autoDraw = False
+1.0282 	EXP 	text: autoDraw = True
+1.5286 	EXP 	text: autoDraw = False
+1.5287 	EXP 	article: status = STOPPED
+1.5328 	INFO 	saved data to 'C:\\psychopywork\\jubjaikwam\\data/928520_article_2025-04-23_14h34.13.680.csv'
+1.5331 	INFO 	saved data to C:\psychopywork\jubjaikwam\data/928520_article_2025-04-23_14h34.13.680.psydat
